@@ -118,6 +118,17 @@ Por defecto corre en: [http://localhost:5173](http://localhost:5173)
 * CRUD completo de tareas implementado.
 
 ---
+* Pagina de Login, registrarse
+* ![image](https://github.com/user-attachments/assets/365cc341-38a7-408a-adf8-d0c120908610)
+* ![image](https://github.com/user-attachments/assets/0273301c-9c16-4b49-93c4-8381c254d612)
+
+* Panel principal, registro de tareas.
+* ![image](https://github.com/user-attachments/assets/1a3c3754-7100-4e8f-bc99-b9148800f0aa)
+* ![image](https://github.com/user-attachments/assets/2239590b-cdad-4246-b5ee-feacea7127b2)
+
+
+
+---
 
 Desarrollado con Laravel + Vue 2 + BootstrapVue
 
