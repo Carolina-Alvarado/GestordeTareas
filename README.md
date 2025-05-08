@@ -99,13 +99,13 @@ server: {
 npm run dev
 ```
 
-Por defecto corre en: [http://localhost:5173](http://localhost:5173)
+Por defecto corre en: [http://localhost:5174](http://localhost:5174)
 
 ---
 
 ## Uso del sistema
 
-1. Abrir [http://localhost:5173](http://localhost:5173)
+1. Abrir [http://localhost:5174](http://localhost:5174)
 2. Registrar un nuevo usuario
 3. Iniciar sesión con el usuario registrado
 4. Gestionar tareas (crear, ver, editar, eliminar) desde el dashboard
